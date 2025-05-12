@@ -2,7 +2,7 @@ import asyncio, websockets
 import pyautogui, cv2, numpy as np
 import threading, base64
 
-SERVER_IP = "localhost"  # Connect to the local server
+SERVER_IP = "localhost"  # Example: "192.168.0.100"
 PORT = "8765"
 
 # SCREEN SHARING SENDER
